@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 🎨
 <img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=🖌️&fontColor=FFFFFF&animation=twinkling&fontSize=80"/>
 
 <!--
@@ -12,7 +12,7 @@
     </a>
 </div>
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE3EA&height=300&section=footer&text=🎨&animation=&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE3EA&height=300&section=footer&text=&animation=&fontSize=80" />
 
 <!--
 **Hajin99/Hajin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
