@@ -1,4 +1,4 @@
-## Hi there
+## Hi there.
 <img src="https://capsule-render.vercel.app/api?type=venom&color=FFFFFF&height=300&section=header&text=✨&fontColor=FFFFFF&animation=&fontSize=70" />
 
 <!--
