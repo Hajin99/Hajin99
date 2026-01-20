@@ -1,6 +1,6 @@
 ## Hi there
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=&fontColor=FFFFFF&animation=![SpongebobPatrickGIF (2)](https://github.com/user-attachments/assets/0753e922-a0df-449a-a0f2-20257b24934b)
-twinkling&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=![Uploading SpongebobPatrickGIF (3).gif…]()
+&fontColor=FFFFFF&animation=twinkling&fontSize=80" />
 
 
 <!--
