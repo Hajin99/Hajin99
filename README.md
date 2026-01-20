@@ -1,8 +1,6 @@
 ## Hi there 🎨
 <img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=🖌️&fontColor=FFFFFF&animation=twinkling&fontSize=80"/>
 
-![WhalePinkGIF](https://github.com/user-attachments/assets/c2a855d2-d40b-4fbc-8ba3-e204780ac0ab)
-
 <!--
 <a href="https://solved.ac/Hajin99">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Hajin99" alt="Solved.ac Profile" />
