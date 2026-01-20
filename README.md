@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=300&section=header&text=⭐&fontColor=ffff00&animation=twinkling&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0B1C2D&height=300&section=header&text=⭐&fontColor=FFD700&animation=twinkling&fontSize=90" />
+
 <!--
 <a href="https://solved.ac/Hajin99">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Hajin99" alt="Solved.ac Profile" />
