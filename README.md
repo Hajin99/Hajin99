@@ -1,8 +1,7 @@
 ## Hi there
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=
-&fontColor=FFFFFF&animation=twinkling&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=&fontColor=FFFFFF&animation=twinkling&fontSize=80"/>
 
-![SpongebobPatrickGIF (2)](https://github.com/user-attachments/assets/7c41d9b5-36d1-4fdc-b8fd-18d364167f90)
+![LittlePencilGIF](https://github.com/user-attachments/assets/04d738dd-523d-44e2-b4b0-487010a828f2)
 
 
 <!--
