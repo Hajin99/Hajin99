@@ -11,7 +11,7 @@
     </a>
 </div>
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=footer&text=🐳&animation=twinkling&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=footer&text=🐳&animation=twinkling&fontSize=90" />
 
 <!--
 **Hajin99/Hajin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
