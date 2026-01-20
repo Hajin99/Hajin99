@@ -1,5 +1,5 @@
 ## Hi there 🎨
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFE3EA&height=300&section=header&text=🖌️&fontColor=FFFFFF&animation=twinkling&fontSize=80"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=🖌️&fontColor=FFFFFF&animation=twinkling&fontSize=80"/>
 
 <!--
 <a href="https://solved.ac/Hajin99">
