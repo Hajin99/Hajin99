@@ -1,7 +1,6 @@
 ## Hi there ✨
-<!--
 <img src="https://capsule-render.vercel.app/api?type=venom&color=FFFFFF&height=300&section=header&text=&fontColor=FFFFFF&animation=twinkling&fontSize=70" />
--->
+
 
 <!--
 <a href="https://solved.ac/Hajin99">
