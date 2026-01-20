@@ -1,7 +1,7 @@
 ## Hi there 🎨
 <img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=🖌️&fontColor=FFFFFF&animation=twinkling&fontSize=80"/>
 
-![ILoveItHappyValentine&#39;SDayGIF](https://github.com/user-attachments/assets/40f31fbe-4fad-4f0a-b897-c7f931e59760)
+![WhalePinkGIF](https://github.com/user-attachments/assets/c2a855d2-d40b-4fbc-8ba3-e204780ac0ab)
 
 <!--
 <a href="https://solved.ac/Hajin99">
