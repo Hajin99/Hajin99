@@ -1,6 +1,6 @@
 ## Hi there
 <!--
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFFFFF&height=300&section=header&text=&fontColor=FFFFFF&animation=✨twinkling&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FFE3EA&height=300&section=header&text=&fontColor=FFFFFF&animation=✨twinkling&fontSize=80" />
 -->
 
 <!--
