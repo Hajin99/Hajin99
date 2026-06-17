@@ -42,7 +42,7 @@ Java · Spring Boot · Redis · MySQL
 ### 📬 Contact
 
 📧 [hajin6529@gmail.com](mailto:hajin6529@gmail.com)
-
+📝 [Velog](https://velog.io/@hajin6529/series)
 
 <!--
 **Hajin99/Hajin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
