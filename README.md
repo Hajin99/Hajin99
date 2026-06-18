@@ -4,6 +4,11 @@ Java · Spring Boot · Redis · MySQL
 
 ---
 
+Spring Boot 기반 백엔드를 공부하며 프로젝트와 기술 문서를 기록하고 있습니다.
+라이브러리 내부 동작과 설계 이유를 파고드는 것을 좋아합니다.
+
+---
+
 ### 🛠 Tech Stack
 
 **Backend** &nbsp; Java, Spring Boot, Spring Security, JPA<br>
@@ -39,10 +44,17 @@ Java · Spring Boot · Redis · MySQL
 
 ---
 
+### 🔗 Links
+
+📝 [Velog](https://velog.io/@hajin6529/series)
+🌿 [Notion](https://earthy-tuesday-323.notion.site/Portfolio-383f4113be3d80d889e7cabffc02d731)
+
+---
+
 ### 📬 Contact
 
 📧 [hajin6529@gmail.com](mailto:hajin6529@gmail.com)
-📝 [Velog](https://velog.io/@hajin6529/series)
+
 
 <!--
 **Hajin99/Hajin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
